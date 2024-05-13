@@ -1,7 +1,11 @@
 # Creata_Trip - Tianhao Chen
 
 ## Usage
-Just clone this repository into the local, maybe you want to replace it with your own gpt api key because I have limited tokens due to budget. Then run npm index.js to view and chat on your local server.
+Just clone this repository into the local, maybe you want to replace it with your own gpt api key because I have limited tokens due to budget. 
+
+Just create a env file and OPENAI_API_KEY = your api key.
+
+Then run npm index.js to view and chat on your local server.
 
 
 ## Overview
