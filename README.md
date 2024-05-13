@@ -1,5 +1,9 @@
 # Creata_Trip - Tianhao Chen
 
+## Usage
+Just clone this repository into the local, maybe you want to replace it with your own gpt api key because I have limited tokens due to budget. Then run node.js to view and chat on your local server.
+
+
 ## Overview
 This Travel Assistant AI is meticulously designed to cater to individuals seeking travel-related assistance. Built entirely from scratch, the project leverages the advanced capabilities of OpenAI's ChatGPT-3.5 to deliver timely and relevant travel advice and information. The backend is powered by Node.js, complemented by front-end technologies including HTML and CSS, ensuring a seamless and responsive user experience.
 
