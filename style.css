@@ -1,0 +1,40 @@
+h1 {
+    font-size: 2.5em; /* Makes the title larger */
+    color: #333; /* Sets a dark grey color */
+    text-align: center; /* Centers the title */
+    margin-top: 20px; /* Adds space above the title */
+    font-family: 'Arial', sans-serif; /* Uses Arial font, or sans-serif if Arial isn't available */
+}
+
+button {
+    padding: 10px 20px; /* Adds padding inside the button */
+    background-color: #007BFF; /* Sets a blue background color */
+    color: white; /* Sets the text color to white */
+    border: none; /* Removes the default border */
+    border-radius: 5px; /* Rounds the corners of the button */
+    cursor: pointer; /* Shows a pointer cursor when the mouse hovers over the button */
+    transition: background-color 0.3s; /* Smooth transition for background color change on hover */
+    font-size: 1em; /* Sets a suitable font size for the button */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue background on hover */
+}
+
+body {
+    font-family: 'Arial', sans-serif; /* Ensures the font is consistent throughout the page */
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* Light grey background */
+    color: #333; /* Dark grey text color */
+}
+
+main {
+    width: 80%;
+    max-width: 600px; /* Restricts the maximum width to 600px */
+    margin: 0 auto; /* Centers the main content horizontally */
+    padding: 20px; /* Adds padding around the main content */
+    background-color: white; /* White background for the main content area */
+    border-radius: 8px; /* Rounded corners for the main content area */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow around the main content area */
+}
